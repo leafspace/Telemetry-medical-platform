@@ -1,0 +1,59 @@
+speech graph
+  Lx 48  Rx 125
+  Ly 20  Ry 38
+
+grammar id
+  Lx 548 Rx 611    
+  Ly 20  Ry 38
+
+recognition result
+  Lx 548 Rx 658
+  Ly 110 Ry 128
+
+connect
+  Lx 567 Rx 610   
+  Ly 315 Ry 333
+
+play
+  Lx 696 Rx 722   
+  Ly 335 Ry 353
+
+start
+  Lx 573 Rx 604
+  Ly 365 Ry 383
+
+recognition
+  Lx 675 Rx 743
+  Ly 385 Ry 403
+
+stop
+  Lx 576 Rx 601  
+  Ly 415 Ry 433
+
+exit
+  Lx 695 Rx 721   
+  Ly 435 Ry 453
+
+support
+  Lx 619 Rx 752
+  Ly 491 Ry 510
+
+x
+  Lx 257 Rx 268
+  Ly 470 Ry 481
+
+y
+  Lx 20  Rx 27
+  Ly 242 Ry 255
+
+box-speech
+  Lx 40  Rx 505
+  Ly 50  Ry 456
+
+box-grammar
+  Lx 540 Rx 762
+  Ly 50 Ry 91
+
+box-result
+  Lx 540 Rx 762
+  Ly 150 Ry 282

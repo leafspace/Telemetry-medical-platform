@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|E:\Project Engineering\嵌入式远程智慧医疗平台\程序代码\1-双机交互数据模式\嵌入式设备端\TestClientConsoleApplication\|

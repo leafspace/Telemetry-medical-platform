@@ -1,0 +1,10 @@
+#ABNF 1.0 UTF-8;
+
+language zh-CN;
+mode voice;
+
+root $main;
+$want = 要 | 想;
+$查询 = 查询 | 查;
+$费用 = 手机费 | 话费;
+public $main = [我] [$want] $查询 $费用;

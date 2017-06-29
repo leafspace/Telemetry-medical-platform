@@ -1,0 +1,4 @@
+﻿  client.cpp
+e:\project engineering\嵌入式远程智慧医疗平台\程序代码\1-双机交互数据模式\嵌入式设备端\testclientconsoleapplication\testclientconsoleapplication\client.cpp(74): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+  TestClientConsoleApplication.vcxproj -> E:\Project Engineering\嵌入式远程智慧医疗平台\程序代码\1-双机交互数据模式\嵌入式设备端\TestClientConsoleApplication\Debug\TestClientConsoleApplication.exe
+  TestClientConsoleApplication.vcxproj -> E:\Project Engineering\嵌入式远程智慧医疗平台\程序代码\1-双机交互数据模式\嵌入式设备端\TestClientConsoleApplication\Debug\TestClientConsoleApplication.pdb (Full PDB)

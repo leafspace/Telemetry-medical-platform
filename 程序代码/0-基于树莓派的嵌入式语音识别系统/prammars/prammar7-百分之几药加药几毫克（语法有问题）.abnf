@@ -1,0 +1,21 @@
+#ABNF 1.0 UTF-8;
+language zh-CN; 
+mode voice;
+/*
+
+本文档用于提供讯飞上传语义文件所用，
+本文档内容意义为;
+    5%葡萄糖注射液250ml + 红霉素15g， 静脉滴注。
+
+*/
+
+root $main;
+
+#ABNF HEAD-END;
+
+$number = 一 | 二 | 三 | 四 | 五 | 六 | 七 | 八 | 九 |零;
+$medicine = 葡萄糖注射液 | 红霉素;
+$unit = 毫升 | 克;
+$injection = 静脉滴注 | 注射;
+
+$main = [百分之] [$number] [$medicine] [$number] [$unit] [加] [$medicine] [$unit] [$injection];
